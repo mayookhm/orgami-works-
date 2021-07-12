@@ -1,0 +1,82 @@
+.menu{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    background-color: #000000;
+    padding: 15px;
+    font-size: 20px;
+  
+    font-weight: 400;
+    color: #ffffff;
+
+    }
+    .detilas{
+        text-align: center;
+        background-color: #0025f7; 
+         font-family:cursive;
+    }
+    .header{
+        text-align: center;
+      display:grid;
+    justify-content: space-between;
+    background-color: #000000;
+    padding: 70px;
+    font-size: 20px;
+    font-family: fantasy;
+    font-weight: 400;
+    color: #ffffff;
+
+}
+
+    .grid img{
+      border: 2px solid #000000;
+      border-radius: 50px;
+      justify-content: space-evenly;
+    }
+    .item{
+        text-align: center;
+      border-radius: 20px;
+      background-color: #ffffff;
+      padding: 30px;
+margin: 25px;
+width: 310px;
+font-family: fantasy;
+    }
+    .item1{
+        text-align: center;
+        border-radius: 20px;
+        background-color: #ffffff;
+        padding: 30px;
+  margin: 25px;
+  width: 310px;
+  font-family: fantasy;
+    } .item2{
+        text-align: center;
+        border-radius: 20px;
+        background-color: #ffffff;
+        padding: 30px;
+  margin: 25px;
+  width: 310px;
+  font-family: fantasy;
+    } .item3{
+        border-radius: 20px;
+        background-color: #ffffff;
+        padding: 30px;
+  margin: 25px;
+  width: 310px;
+  font-family: fantasy;
+    } .item4{
+        border-radius: 20px;
+        background-color: #ffffff;
+        padding: 30px;
+  margin: 25px;
+  width: 310px;
+  font-family: fantasy;
+    } .item5{
+        border-radius: 20px;
+      background-color: #ffffff;
+      padding: 30px;
+margin: 25px;
+width: 310px;
+font-family: fantasy;
+    }
